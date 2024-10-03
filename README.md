@@ -152,3 +152,8 @@ A **paleta de cores** *escura com destaque em amarelo cria um visual marcante e 
 Componentes notáveis incluem um **cabeçalho fixo com navegação dropdown**, **seções de conteúdo** *com imagens e texto*, **cards de informação interativos** e um **footer com ícones de mídia social animados.** Estes elementos demonstram uma *abordagem centrada no usuário para o design da interface.* O CSS também inclui **melhorias de acessibilidade**, como *alto contraste para legibilidade e feedback visual* claro em interações.
 
 Técnicas avançadas são empregadas ao longo do código, como o uso de **pseudo-elementos** para *efeitos visuais e transformações e rotações para efeitos dinâmicos.* A **scrollbar personalizada** adiciona um *toque final de refinamento ao design geral.* No geral, este CSS reflete um alto nível de habilidade em *design web moderno*, com um *equilíbrio cuidadoso entre performance, acessibilidade e apelo visual.*
+
+
+# QR Code
+
+![QRCode_Fácil](https://github.com/user-attachments/assets/6e14c0f6-9116-4c86-a08b-c4e6116ceccd)
