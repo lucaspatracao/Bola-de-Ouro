@@ -154,6 +154,6 @@ Componentes notáveis incluem um **cabeçalho fixo com navegação dropdown**, *
 Técnicas avançadas são empregadas ao longo do código, como o uso de **pseudo-elementos** para *efeitos visuais e transformações e rotações para efeitos dinâmicos.* A **scrollbar personalizada** adiciona um *toque final de refinamento ao design geral.* No geral, este CSS reflete um alto nível de habilidade em *design web moderno*, com um *equilíbrio cuidadoso entre performance, acessibilidade e apelo visual.*
 
 
-# QR Code
+# 🤳 QR Code
 
 ![QRCode_Fácil](https://github.com/user-attachments/assets/6e14c0f6-9116-4c86-a08b-c4e6116ceccd)
