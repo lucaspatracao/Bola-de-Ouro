@@ -29,6 +29,7 @@ https://github.com/user-attachments/assets/ac98961d-0454-4477-9816-c241c36cfede
 
 *O conteúdo principal é dividido em seções para cada jogador premiado:*
 - **Seções de Jogadores**
+
 **Cada seção de jogador inclui:**
 
 **Ranking:** *Posição do jogador (#1, #2, etc.)*
